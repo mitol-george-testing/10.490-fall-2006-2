@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ccde269a-2e02-52f3-dbeb-779ffbd222f5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Integrated Chemical Engineering I",
+  "course_description": "This course uses reaction kinetics, batch reactor analysis, batch distillation, batch operations scheduling, safety analysis, and the ABACUSS process simulator to introduce process design and analysis techniques.\n\nAcknowledgements\n----------------\n\nThe materials for the Fall 2006 offering of this course were drawn extensively from the materials that Professor Paul Barton used while teaching this course in past years. We are indebted to him for his long service to 10.490.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.490",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
